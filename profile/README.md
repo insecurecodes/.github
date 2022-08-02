@@ -1,4 +1,4 @@
-![logo](./images/logo.png)
+![logo](/profile/images/logo.png)
 
 <!--
 
