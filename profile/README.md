@@ -4,7 +4,7 @@
 ```diff
 @@ ~/.insecurecodes @@
 ```
-<img height="100px" src="./svg/rtm/ghost-violet.svg"> <img height="100px" src="./svg/rtm/hello.svg"> 
+<img height="100px" src="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/rtm/ghost-violet.svg"> <img height="100px" src="https://raw.githubusercontent.com/renantmagalhaes/renantmagalhaes/master/svg/rtm/hello.svg"> 
 
 <br />
 
